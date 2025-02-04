@@ -29,4 +29,4 @@ Normal (healthy state)
 Ulcerative Colitis
 Polyps
 Esophagitis
-Each class consists of 1,500 samples, totaling 6,000 images. The dataset is used to train the model to detect gastrointestinal diseases and classify them based on these four categories.
+Each class consists of 1,500 samples, totaling 6,000 images uploqded in a drive folder. The dataset is used to train the model to detect gastrointestinal diseases and classify them based on these four categories.
